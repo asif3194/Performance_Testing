@@ -124,7 +124,7 @@ Monitor server CPU, RAM, and network usage.
 
 Do not run heavy load tests from your local machine for production systems.
 
-## Report
+## Report:
 
 <img width="1920" height="917" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/3fb2a534-24d3-4b2b-aaa1-0f406beea237" />
 
