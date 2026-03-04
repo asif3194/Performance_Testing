@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Performance Testing with Apache JMeter
 
 📌 Project Overview
@@ -131,3 +132,6 @@ Do not run heavy load tests from your local machine for production systems.
 <img width="1920" height="908" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/75410995-7147-41e9-932b-accbf734f729" />
 
 
+=======
+# Performance_Testing
+>>>>>>> e9dd3896cf23caf1d49f91ef185942df520ad5ca
